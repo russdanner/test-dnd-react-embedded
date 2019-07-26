@@ -110,7 +110,7 @@
                                   <name>wcm-root-folder</name>
                                   <params>
                                     <label>Products</label>
-                                    <path>/site</path>
+                                    <path>/site/products</path>
 
                                     <module-icon-open>
                                       <class>fa-shopping-bag</class>

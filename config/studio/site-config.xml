@@ -22,8 +22,8 @@
 
 -->
 <site-config>
-    <wem-project>speed-test</wem-project>
-    <display-name>speed-test</display-name>
+    <wem-project>empty</wem-project>
+    <display-name>empty</display-name>
     <default-timezone>EST5EDT</default-timezone>
     
     <published-repository>
@@ -33,7 +33,7 @@
     </published-repository>
 
     <form-engine>
-        <field-name-postfix>true</field-name-postfix>
+        <field-name-postfix>false</field-name-postfix>
     </form-engine>
 
     <repository rootPrefix="/site">

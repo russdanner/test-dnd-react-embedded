@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (C) 2007-2019 Crafter Software Corporation. All Rights Reserved.
-  ~
-  ~ This program is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License as published by
-  ~ the Free Software Foundation, either version 3 of the License, or
-  ~ (at your option) any later version.
-  ~
-  ~ This program is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  ~ GNU General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License
-  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  -->
-
-<!--
     This file configures the drag-and-drop components available in the Preview Tools. Those components can then
     be dragged and dropped on a drop-zone within a page.
 
@@ -40,5 +23,39 @@
 <config>
     <category>
         <label>General</label>
+            <component>
+                <label>Rich Text</label>
+                <type>/component/rich-text</type>
+                <path>/site/component/item/{objectGroupId}/{objectId}</path>
+            </component>
+        </category>    
+        
+        <category>
+        <label>Store App Elements</label>
+            <component>
+                <label>Float Cart</label>
+                <type>/component/floatcart</type>
+                <path>/site/component/item/{objectGroupId}/{objectId}</path>
+            </component>
+            <component>
+                <label>Github Corner</label>
+                <type>/component/githubcorner</type>
+                <path>/site/component/item/{objectGroupId}/{objectId}</path>
+            </component>
+             <component>
+                <label>Shelf</label>
+                <type>/component/shelf</type>
+                <path>/site/component/item/{objectGroupId}/{objectId}</path>
+            </component>
+             <component>
+                <label>Filter</label>
+                <type>/component/filter</type>
+                <path>/site/component/item/{objectGroupId}/{objectId}</path>
+            </component>
+            <component>
+                <label>Main</label>
+                <type>/component/main</type>
+                <path>/site/component/item/{objectGroupId}/{objectId}</path>
+            </component>
     </category>
 </config>

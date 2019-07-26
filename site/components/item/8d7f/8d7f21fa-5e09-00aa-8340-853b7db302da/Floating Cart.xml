@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/floatcart</content-type>	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a73d</objectGroupId>
+	<objectId>a73da3ba-8540-f8a8-a4cc-bd919098a74e</objectId>
+	<internal-name>Floating Cart</internal-name>
+	<file-name>Floating Cart.xml</file-name>
+	<createdDate>2019-07-25T02:31:12.131Z</createdDate>
+	<createdDate_dt>2019-07-25T02:31:12.131Z</createdDate_dt>
+	<lastModifiedDate>2019-07-25T02:31:12.131Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-07-25T02:31:12.131Z</lastModifiedDate_dt>
+</component>

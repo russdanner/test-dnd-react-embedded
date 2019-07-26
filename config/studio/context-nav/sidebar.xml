@@ -105,6 +105,17 @@
                                     </params>
                                 </modulehook>
 
+                                <!-- Products folder -->
+                                <modulehook>
+                                  <name>wcm-root-folder</name>
+                                  <params>
+                                    <label>Products</label>
+                                    <path>/site</path>
+                                    <showRootItem>true</showRootItem>
+                                    <onClick>preview</onClick>
+                                   </params>
+                                </modulehook>
+
                                 <!-- Site IA Pages -->
                                 <modulehook>
                                     <name>wcm-root-folder</name>                                    

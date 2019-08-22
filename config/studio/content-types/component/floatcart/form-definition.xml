@@ -1,78 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <form>
-	<title>Component: Float Cart</title>
-	<description></description>
-	<objectType>component</objectType>
-	<content-type>/component/floatcart</content-type>
-	<imageThumbnail>undefined</imageThumbnail>
-	<quickCreate>false</quickCreate>
-	<quickCreatePath></quickCreatePath>
-	<properties>		<property>
-			<name>display-template</name>
-			<label>Display Template</label>
-			<value></value>
-			<type>template</type>
-		</property>
-		<property>
-			<name>no-template-required</name>
-			<label>No Template Required</label>
-			<value></value>
-			<type>boolean</type>
-		</property>
-		<property>
-			<name>merge-strategy</name>
-			<label>Merge Strategy</label>
-			<value>inherit-levels</value>
-			<type>string</type>
-		</property>
-	</properties>
-	<sections>		<section>
-			<title>Component: Float Cart Properties</title>
-			<description></description>
-			<defaultOpen>true</defaultOpen>
-			<fields>
-				<field>
-					<type>auto-filename</type>
-					<id>file-name</id>
-					<iceId></iceId>
-					<title>Component ID</title>
-					<description></description>
-					<defaultValue>Floating Cart</defaultValue>
-					<help></help>
-					<properties>
-					</properties>
-					<constraints>
-					</constraints>
-				</field>
-				<field>
-					<type>input</type>
-					<id>internal-name</id>
-					<iceId></iceId>
-					<title>Internal Name</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>size</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[true]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
-			</fields>
-		</section>
-	</sections>
-	<datasources>	</datasources>
+   <title>Component: Float Cart</title>
+   <description/>
+   <objectType>component</objectType>
+   <content-type>/component/floatcart</content-type>
+   <imageThumbnail>undefined</imageThumbnail>
+   <quickCreate>false</quickCreate>
+   <quickCreatePath/>
+   <properties>
+      <property>
+         <name>display-template</name>
+         <label>Display Template</label>
+         <value/>
+         <type>template</type>
+      </property>
+      <property>
+         <name>no-template-required</name>
+         <label>No Template Required</label>
+         <value/>
+         <type>boolean</type>
+      </property>
+      <property>
+         <name>merge-strategy</name>
+         <label>Merge Strategy</label>
+         <value>inherit-levels</value>
+         <type>string</type>
+      </property>
+   </properties>
+   <sections>
+      <section>
+         <title>Component: Float Cart Properties</title>
+         <description/>
+         <defaultOpen>true</defaultOpen>
+         <fields>
+            <field>
+               <type>auto-filename</type>
+               <id>file-name</id>
+               <iceId/>
+               <title>Component ID</title>
+               <description/>
+               <defaultValue>Floating Cart</defaultValue>
+               <help/>
+               <properties/>
+               <constraints/>
+            </field>
+            <field>
+               <type>input</type>
+               <id>internal-name</id>
+               <iceId/>
+               <title>Internal Name</title>
+               <description/>
+               <defaultValue/>
+               <help/>
+               <properties>
+                  <property>
+                     <name>size</name>
+                     <value>50</value>
+                     <type>int</type>
+                  </property>
+                  <property>
+                     <name>maxlength</name>
+                     <value>50</value>
+                     <type>int</type>
+                  </property>
+               </properties>
+               <constraints>
+                  <constraint>
+                     <name>required</name>
+                     <value>true</value>
+                     <type>boolean</type>
+                  </constraint>
+               </constraints>
+            </field>
+         </fields>
+      </section>
+   </sections>
+   <datasources/>
 </form>

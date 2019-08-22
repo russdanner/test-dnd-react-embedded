@@ -2,6 +2,7 @@
 <component>
 	<content-type>/component/product</content-type>	<display-template/>
 	<merge-strategy>inherit-levels</merge-strategy>
+	<no-template-required/>
 	<objectGroupId>5a60</objectGroupId>
 	<objectId>5a60cb1c-69db-bd4a-c695-4fcc8186a528</objectId>
 	<file-name>5a60cb1c-69db-bd4a-c695-4fcc8186a528.xml</file-name>
@@ -18,8 +19,8 @@
 	</item></sizes>
 	<createdDate>2018-10-31T20:36:00.295Z</createdDate>
 	<createdDate_dt>2018-10-31T20:36:00.295Z</createdDate_dt>
-	<lastModifiedDate>2019-01-29T17:08:33.134Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-01-29T17:08:33.134Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-08-22T15:13:42.454Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-22T15:13:42.454Z</lastModifiedDate_dt>
 	<style>Black with custom print</style>
 	<sku>12064273040195392</sku>
 	<largeImage>/static-assets/products/images/12064273040195392_1.jpg</largeImage>

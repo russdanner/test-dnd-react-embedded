@@ -345,6 +345,18 @@
                   <class>fa-puzzle-piece</class>
                </icon>
             </datasource>
+            <datasource>
+               <name>shared-content</name>
+               <icon>
+                  <class>fa-share-alt</class>
+               </icon>
+            </datasource>
+            <datasource>
+               <name>embedded-content</name>
+               <icon>
+                  <class>fa-dot-circle-o</class>
+               </icon>
+            </datasource>
          </datasources>
          <objectTypes>
             <type>

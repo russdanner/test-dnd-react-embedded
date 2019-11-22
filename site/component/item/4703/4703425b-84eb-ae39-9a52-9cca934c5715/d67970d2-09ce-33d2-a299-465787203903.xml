@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/filter</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d679</objectGroupId>
+	<objectId>d67970d2-09ce-33d2-a299-465787203903</objectId>
+	<file-name>d67970d2-09ce-33d2-a299-465787203903.xml</file-name>
+	<internal-name>Filter</internal-name>
+	<createdDate>2019-11-22T22:06:53.106Z</createdDate>
+	<createdDate_dt>2019-11-22T22:06:53.106Z</createdDate_dt>
+	<lastModifiedDate>2019-11-22T22:06:53.106Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T22:06:53.106Z</lastModifiedDate_dt>
+</component>

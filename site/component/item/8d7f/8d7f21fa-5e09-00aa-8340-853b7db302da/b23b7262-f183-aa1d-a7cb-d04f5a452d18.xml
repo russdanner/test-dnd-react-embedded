@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/main</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b23b</objectGroupId>
+	<objectId>b23b7262-f183-aa1d-a7cb-d04f5a452d18</objectId>
+	<col1 item-list="true"/>
+	<file-name>b23b7262-f183-aa1d-a7cb-d04f5a452d18.xml</file-name>
+	<internal-name>App Main</internal-name>
+	<createdDate>2019-11-22T17:25:39.947Z</createdDate>
+	<createdDate_dt>2019-11-22T17:25:39.947Z</createdDate_dt>
+	<lastModifiedDate>2019-11-22T17:25:39.947Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T17:25:39.947Z</lastModifiedDate_dt>
+</component>

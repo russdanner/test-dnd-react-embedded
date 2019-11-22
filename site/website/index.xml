@@ -19,5 +19,8 @@
 	<col1 item-list="true">	<item datasource="pageComponents">	<value>Rich Text</value>
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/4cde0d92-030d-0aa1-4dd9-ff4c119907fe.xml</key>
 	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/4cde0d92-030d-0aa1-4dd9-ff4c119907fe.xml</include>
+	</item>	<item datasource="pageComponents">	<value>Rich Text</value>
+	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/e94f62c5-f8ce-62f2-c72b-12f9e2c5ad25.xml</key>
+	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/e94f62c5-f8ce-62f2-c72b-12f9e2c5ad25.xml</include>
 	</item></col1>
 </page>

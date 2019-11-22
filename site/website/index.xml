@@ -19,5 +19,8 @@
 	<col1 item-list="true">	<item datasource="childComponents">	<value>Rich Textl</value>
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</key>
 	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</include>
+	</item>	<item datasource="pageComponents">	<value>App Main</value>
+	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/4703425b-84eb-ae39-9a52-9cca934c5715.xml</key>
+	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/4703425b-84eb-ae39-9a52-9cca934c5715.xml</include>
 	</item></col1>
 </page>

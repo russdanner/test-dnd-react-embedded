@@ -33,14 +33,9 @@ export default class App extends React.Component {
   
   render() {
   	if(!this.state) return "";
-	return ( <div  data-studio-component-path="/site/website/index.xml" 
-		           data-studio-component="/site/website/index.xml"
-                   data-studio-ice-path="/site/website/index.xml"
-                   data-studio-ice="" 
-                   data-studio-ice-label="Column 1"
-
-                   data-studio-components-target="col1" 
-                   data-studio-components-objectId={this.state.objectId}>
+	return ( <div     data-studio-components-target="col1"
+                    data-studio-components-objectid={this.state.objectId}
+                    data-studio-zone-content-type="/page/entry">
 				<DynamicComponent items={this.state.col1.item} />
 			</div>)
   }

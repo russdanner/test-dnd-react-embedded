@@ -46,8 +46,11 @@ export default class DynamicComponent extends React.Component {
     }
 
   render() {
-  	var content = [];         
-    this.props.items.map(item => { return content.push(this.recurseElements(item)) })
+  	var content = []; 
+
+    if(this.props.items)        
+      this.props.items.map(item => { return content.push(this.recurseElements(item)) })
+  
     return content
   }
 }

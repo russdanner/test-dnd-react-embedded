@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/rich-text</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e94f</objectGroupId>
+	<objectId>e94f62c5-f8ce-62f2-c72b-12f9e2c5ad25</objectId>
+	<file-name>e94f62c5-f8ce-62f2-c72b-12f9e2c5ad25.xml</file-name>
+	<internal-name>Rich Text</internal-name>
+	<copy>&lt;p&gt;B&lt;/p&gt;</copy>
+	<createdDate>2019-11-22T17:27:27.134Z</createdDate>
+	<createdDate_dt>2019-11-22T17:27:27.134Z</createdDate_dt>
+	<lastModifiedDate>2019-11-22T17:27:27.134Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T17:27:27.134Z</lastModifiedDate_dt>
+</component>

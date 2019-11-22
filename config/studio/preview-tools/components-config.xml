@@ -35,27 +35,27 @@
             <component>
                 <label>Float Cart</label>
                 <type>/component/floatcart</type>
-                <path>/site/component/item/{objectGroupId}/{objectId}</path>
+                <!--path>/site/component/item/{objectGroupId}/{objectId}</path-->
             </component>
             <component>
                 <label>Github Corner</label>
                 <type>/component/githubcorner</type>
-                <path>/site/component/item/{objectGroupId}/{objectId}</path>
+                <!--path>/site/component/item/{objectGroupId}/{objectId}</path-->
             </component>
              <component>
                 <label>Shelf</label>
                 <type>/component/shelf</type>
-                <path>/site/component/item/{objectGroupId}/{objectId}</path>
+               <!--path>/site/component/item/{objectGroupId}/{objectId}</path-->
             </component>
              <component>
                 <label>Filter</label>
                 <type>/component/filter</type>
-                <path>/site/component/item/{objectGroupId}/{objectId}</path>
+                <!--path>/site/component/item/{objectGroupId}/{objectId}</path-->
             </component>
             <component>
                 <label>Main</label>
                 <type>/component/main</type>
-                <path>/site/component/item/{objectGroupId}/{objectId}</path>
+                <!--path>/site/component/item/{objectGroupId}/{objectId}</path-->
             </component>
     </category>
 </config>

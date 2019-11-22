@@ -8,7 +8,10 @@
 	<objectId>7a2ce8ce-cbcb-86d0-4649-604db3712513</objectId>
 	<file-name>7a2ce8ce-cbcb-86d0-4649-604db3712513.xml</file-name>
 	<internal-name>App Main</internal-name>
-	<col1 item-list="true"/>
+	<col1 item-list="true">	<item datasource="childComponents">	<value>Shelf</value>
+	<key>/site/component/item/7a2c/7a2ce8ce-cbcb-86d0-4649-604db3712513/5f771801-dc7f-5485-152d-e6c8f2dab3ab.xml</key>
+	<include>/site/component/item/7a2c/7a2ce8ce-cbcb-86d0-4649-604db3712513/5f771801-dc7f-5485-152d-e6c8f2dab3ab.xml</include>
+	</item></col1>
 	<createdDate>2019-11-22T22:07:14.171Z</createdDate>
 	<createdDate_dt>2019-11-22T22:07:14.171Z</createdDate_dt>
 	<lastModifiedDate>2019-11-22T22:07:14.171Z</lastModifiedDate>

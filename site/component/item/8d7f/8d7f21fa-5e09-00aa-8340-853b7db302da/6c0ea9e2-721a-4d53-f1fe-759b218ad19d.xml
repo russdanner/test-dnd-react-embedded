@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/main</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6c0e</objectGroupId>
+	<objectId>6c0ea9e2-721a-4d53-f1fe-759b218ad19d</objectId>
+	<file-name>6c0ea9e2-721a-4d53-f1fe-759b218ad19d.xml</file-name>
+	<internal-name>App Main</internal-name>
+	<col1 item-list="true"/>
+	<createdDate>2019-11-22T17:32:00.162Z</createdDate>
+	<createdDate_dt>2019-11-22T17:32:00.162Z</createdDate_dt>
+	<lastModifiedDate>2019-11-22T17:32:00.162Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T17:32:00.162Z</lastModifiedDate_dt>
+</component>

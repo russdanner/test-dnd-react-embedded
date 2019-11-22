@@ -16,14 +16,8 @@
 	<lastModifiedDate>2019-11-22T06:31:31.516Z</lastModifiedDate>
 	<lastModifiedDate_dt>2019-11-22T06:31:31.516Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
-	<col1 item-list="true">	<item datasource="pageComponents">	<value>Rich Text</value>
-	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/755a9c69-c7ad-cf52-5ab6-b1a14307fc30.xml</key>
-	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/755a9c69-c7ad-cf52-5ab6-b1a14307fc30.xml</include>
-	</item>	<item datasource="pageComponents">	<value>App Main</value>
-	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/f52f7c01-e88f-803e-f349-abd0ce26b25f.xml</key>
-	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/f52f7c01-e88f-803e-f349-abd0ce26b25f.xml</include>
-	</item>	<item datasource="pageComponents">	<value>Filter</value>
-	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/23279ffc-807f-1c70-bc3d-755396ad6c6e.xml</key>
-	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/23279ffc-807f-1c70-bc3d-755396ad6c6e.xml</include>
+	<col1 item-list="true">	<item datasource="childComponents">	<value>Floating%20Cart.xml</value>
+	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/Floating%20Cart.xml</key>
+	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/Floating%20Cart.xml</include>
 	</item></col1>
 </page>

@@ -95,7 +95,7 @@ class FloatCart extends Component {
 
     const products = cartProducts.map(p => {
       return (
-        <CartProduct product={p} removeProduct={removeProduct} key={p.id} />
+        <CartProduct product={p} removeProduct={removeProduct} key={p.id}/>
       );
     });
 
@@ -106,30 +106,36 @@ class FloatCart extends Component {
     }
 
     return (
-      <div className={classes.join(' ')}
-           data-studio-component-path={this.props.cmsId} 
-           data-studio-component={this.props.cmsId}
-           data-studio-ice-path={this.props.cmsId}
-           data-studio-ice="" >
+      <div
+        className={classes.join(' ')}
+        data-studio-ice=""
+        data-studio-ice-path={this.props.cmsId}
+        data-studio-component={this.props.cmsId}
+        data-studio-component-path={this.props.cmsId}
+      >
         {/* If cart open, show close (x) button */}
-        {this.state.isOpen && (
-          <div
-            onClick={() => this.closeFloatCart()}
-            className="float-cart__close-btn"
-          >
-            X
-          </div>
-        )}
+        {
+          this.state.isOpen && (
+            <div
+              onClick={() => this.closeFloatCart()}
+              className="float-cart__close-btn"
+            >
+              X
+            </div>
+          )
+        }
 
         {/* If cart is closed, show bag with quantity of product and open cart action */}
-        {!this.state.isOpen && (
-          <span
-            onClick={() => this.openFloatCart()}
-            className="bag bag--float-cart-closed"
-          >
-            <span className="bag__quantity">{cartTotal.productQuantity}</span>
-          </span>
-        )}
+        {
+          !this.state.isOpen && (
+            <span
+              onClick={() => this.openFloatCart()}
+              className="bag bag--float-cart-closed"
+            >
+              <span className="bag__quantity">{cartTotal.productQuantity}</span>
+            </span>
+          )
+        }
 
         <div className="float-cart__content">
           <div className="float-cart__header">
@@ -143,8 +149,7 @@ class FloatCart extends Component {
             {products}
             {!products.length && (
               <p className="shelf-empty">
-                Add some products in the cart <br />
-                :)
+                Add some products in the cart <br/> :)
               </p>
             )}
           </div>
@@ -163,7 +168,7 @@ class FloatCart extends Component {
                   <span>
                     {`OR UP TO ${cartTotal.installments} x ${
                       cartTotal.currencyFormat
-                    } ${formatPrice(
+                      } ${formatPrice(
                       cartTotal.totalPrice / cartTotal.installments,
                       cartTotal.currencyId
                     )}`}

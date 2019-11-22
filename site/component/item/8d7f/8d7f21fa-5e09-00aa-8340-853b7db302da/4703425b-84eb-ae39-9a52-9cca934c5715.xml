@@ -22,6 +22,9 @@
 	</item>	<item datasource="childComponents">	<value>Github Corner</value>
 	<key>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/7918e7d9-004b-2fe5-a274-a0ebed76145f.xml</key>
 	<include>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/7918e7d9-004b-2fe5-a274-a0ebed76145f.xml</include>
+	</item>	<item datasource="childComponents">	<value>Shelf</value>
+	<key>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/fdf71d44-2055-7757-70e0-06f53ee253af.xml</key>
+	<include>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/fdf71d44-2055-7757-70e0-06f53ee253af.xml</include>
 	</item></col1>
 	<createdDate>2019-11-22T17:32:35.997Z</createdDate>
 	<createdDate_dt>2019-11-22T17:32:35.997Z</createdDate_dt>

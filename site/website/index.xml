@@ -13,20 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2019-07-26T14:54:42.637Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-07-26T14:54:42.637Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-22T06:09:40.831Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T06:09:40.831Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
-	<col1 item-list="true">	<item>	<key>/site/components/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/75380d79-1611-8892-60b4-e0dabcf534ce.xml</key>
-	<value>Github Corner</value>
-	<include>/site/components/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/75380d79-1611-8892-60b4-e0dabcf534ce.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<key>/site/components/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/2b369260-fae0-6eb4-0151-ea421ef3904b.xml</key>
-	<value>App Main</value>
-	<include>/site/components/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/2b369260-fae0-6eb4-0151-ea421ef3904b.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<key>/site/components/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/Floating Cart.xml</key>
-	<value>Floating Cart</value>
-	<include>/site/components/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/Floating Cart.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></col1>
+	<col1 item-list="true"/>
 </page>

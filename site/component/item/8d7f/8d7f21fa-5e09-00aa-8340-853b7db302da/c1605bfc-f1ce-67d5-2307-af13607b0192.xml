@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/shelf</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c160</objectGroupId>
+	<objectId>c1605bfc-f1ce-67d5-2307-af13607b0192</objectId>
+	<file-name>c1605bfc-f1ce-67d5-2307-af13607b0192.xml</file-name>
+	<internal-name>Shelf</internal-name>
+	<createdDate>2019-11-22T06:12:02.936Z</createdDate>
+	<createdDate_dt>2019-11-22T06:12:02.936Z</createdDate_dt>
+	<lastModifiedDate>2019-11-22T06:12:02.936Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T06:12:02.936Z</lastModifiedDate_dt>
+</component>

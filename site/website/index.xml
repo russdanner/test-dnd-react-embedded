@@ -23,5 +23,8 @@
 	</item>	<item datasource="pageComponents">	<value>Shelf</value>
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/c1605bfc-f1ce-67d5-2307-af13607b0192.xml</key>
 	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/c1605bfc-f1ce-67d5-2307-af13607b0192.xml</include>
+	</item>	<item datasource="pageComponents">	<value>Floating%20Cart.xml</value>
+	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/Floating%20Cart.xml</key>
+	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/Floating%20Cart.xml</include>
 	</item></col1>
 </page>

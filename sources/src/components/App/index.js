@@ -35,8 +35,15 @@ export default class App extends React.Component {
   	if(!this.state) return "";
 	return ( <div     data-studio-components-target="col1"
                     data-studio-components-objectid={this.state.objectId}
+                    data-studio-component-path={this.state.cmsId}
                     data-studio-zone-content-type="/page/entry">
-				<DynamicComponent items={this.state.col1.item} />
+
+                    {
+          this.state.col1 && this.state.col1.item
+              ? <DynamicComponent items={this.state.col1.item}/>
+              : <em>(col1 has no item)</em>
+        }
+
 			</div>)
   }
 }

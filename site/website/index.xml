@@ -28,9 +28,5 @@
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/4703425b-84eb-ae39-9a52-9cca934c5715.xml</key>
 	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/4703425b-84eb-ae39-9a52-9cca934c5715.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="pageComponents">	<key>/site/components/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/Floating Cart.xml</key>
-	<value>Floating Cart</value>
-	<include>/site/components/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/Floating Cart.xml</include>
-	<disableFlattening>false</disableFlattening>
 	</item></col1>
 </page>

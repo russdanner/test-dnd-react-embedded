@@ -4,12 +4,12 @@
 	<display-template/>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>d42b</objectGroupId>
-	<objectId>d42bc2e9-9aa2-1280-1c2b-d65b2bc1b33f</objectId>
-	<internal-name> mmm</internal-name>
+	<objectGroupId>1167</objectGroupId>
+	<objectId>1167f12d-d7ff-6e13-0e1c-bbf3d0c48e2b</objectId>
 	<file-name>Floating Cart.xml</file-name>
-	<createdDate>2019-11-22T06:12:11.347Z</createdDate>
-	<createdDate_dt>2019-11-22T06:12:11.347Z</createdDate_dt>
-	<lastModifiedDate>2019-11-22T06:12:11.347Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-22T06:12:11.347Z</lastModifiedDate_dt>
+	<internal-name>ddd</internal-name>
+	<createdDate>2019-11-22T17:13:51.890Z</createdDate>
+	<createdDate_dt>2019-11-22T17:13:51.890Z</createdDate_dt>
+	<lastModifiedDate>2019-11-22T17:13:51.890Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T17:13:51.890Z</lastModifiedDate_dt>
 </component>

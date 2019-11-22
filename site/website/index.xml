@@ -19,6 +19,9 @@
 	<col1 item-list="true">	<item datasource="pageComponents">	<value>Rich Text</value>
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/4056287d-5935-07e0-0ea0-e08d51f07a0f.xml</key>
 	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/4056287d-5935-07e0-0ea0-e08d51f07a0f.xml</include>
+	</item>	<item datasource="pageComponents">	<value>App Main</value>
+	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b23b7262-f183-aa1d-a7cb-d04f5a452d18.xml</key>
+	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b23b7262-f183-aa1d-a7cb-d04f5a452d18.xml</include>
 	</item>	<item datasource="pageComponents">	<value>Rich Text</value>
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/6f066a29-5c78-81df-ce5e-59dfa05d912c.xml</key>
 	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/6f066a29-5c78-81df-ce5e-59dfa05d912c.xml</include>

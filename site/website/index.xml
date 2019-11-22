@@ -16,8 +16,5 @@
 	<lastModifiedDate>2019-11-22T17:27:01.419Z</lastModifiedDate>
 	<lastModifiedDate_dt>2019-11-22T17:27:01.419Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
-	<col1 item-list="true">	<item datasource="pageComponents">	<value>Rich TextC</value>
-	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/477006fc-0e9b-77e9-3a2b-f5c588539a78.xml</key>
-	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/477006fc-0e9b-77e9-3a2b-f5c588539a78.xml</include>
-	</item></col1>
+	<col1 item-list="true"/>
 </page>

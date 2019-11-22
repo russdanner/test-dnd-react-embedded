@@ -20,8 +20,8 @@
 	<value>Github Corner</value>
 	<include>/site/components/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/f0698c45-cdda-99dd-be79-00a188a7ba29.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="pageComponents">	<value>Filter</value>
-	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/3269985e-39e6-6698-7044-0bc675cea95c.xml</key>
-	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/3269985e-39e6-6698-7044-0bc675cea95c.xml</include>
+	</item>	<item datasource="pageComponents">	<value>Shelf</value>
+	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/c1605bfc-f1ce-67d5-2307-af13607b0192.xml</key>
+	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/c1605bfc-f1ce-67d5-2307-af13607b0192.xml</include>
 	</item></col1>
 </page>

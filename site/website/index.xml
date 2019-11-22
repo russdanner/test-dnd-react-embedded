@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/entry</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
 	<merge-strategy>inherit-levels</merge-strategy>
+	<no-template-required/>
 	<placeInNav>false</placeInNav>
 	<file-name>index.xml</file-name>
 	<internal-name>Home</internal-name>

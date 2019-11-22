@@ -13,8 +13,25 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2019-11-22T22:27:33.205Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-22T22:27:33.205Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-22T22:27:42.603Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T22:27:42.603Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
+	<col1 item-list="true">	<item datasource="embedded" inline="true">	<key>e4e7fbfc-f64b-05ca-b4cc-6606281f2544</key>
+	<value>App Main</value>
+<component id="e4e7fbfc-f64b-05ca-b4cc-6606281f2544">
+	<content-type>/component/main</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e4e7</objectGroupId>
+	<objectId>e4e7fbfc-f64b-05ca-b4cc-6606281f2544</objectId>
+	<file-name>e4e7fbfc-f64b-05ca-b4cc-6606281f2544.xml</file-name>
+	<internal-name>App Main</internal-name>
 	<col1 item-list="true"/>
+	<createdDate>2019-11-22T22:27:42.983Z</createdDate>
+	<createdDate_dt>2019-11-22T22:27:42.983Z</createdDate_dt>
+	<lastModifiedDate>2019-11-22T22:27:42.983Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T22:27:42.983Z</lastModifiedDate_dt>
+</component>
+	</item></col1>
 </page>

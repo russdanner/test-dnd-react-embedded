@@ -22,5 +22,8 @@
 	</item>	<item datasource="pageComponents">	<value>App Main</value>
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/f52f7c01-e88f-803e-f349-abd0ce26b25f.xml</key>
 	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/f52f7c01-e88f-803e-f349-abd0ce26b25f.xml</include>
+	</item>	<item datasource="pageComponents">	<value>Filter</value>
+	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/23279ffc-807f-1c70-bc3d-755396ad6c6e.xml</key>
+	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/23279ffc-807f-1c70-bc3d-755396ad6c6e.xml</include>
 	</item></col1>
 </page>

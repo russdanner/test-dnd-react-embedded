@@ -102,7 +102,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value>childComponents,embedded</value>
+							<value>embedded</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
